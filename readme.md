@@ -1,3 +1,4 @@
-This is my brand new project vesioned in git!
+**This is my brand new project vesioned in git!**
 
-I am so excited.
+*I am so excited.*
+ 
